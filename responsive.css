@@ -1,0 +1,48 @@
+@media (max-width: 1320px) {
+    .back-ground{
+         background-size: contain;
+         background-color: #171615;
+         margin-top: 7rem;
+         height: 16rem;
+    }
+    .one-navimg{
+        flex-direction: column;
+        width: 20rem;
+       
+    }
+    .mainbox{
+        flex-direction: column;
+        margin-left: 30px;
+    }
+    .img{
+        margin-left: 8rem;
+    }
+    header{
+        height: 7.8rem;
+    }
+    .imgnav-2{
+        flex-direction: column;
+    }
+    .imgnav-3{
+        flex-direction: column;
+    }
+    .imgnav-2 img{
+        margin-left: 25%;
+    }
+    
+    .imgnav-3 img{
+        margin-left: 38%;
+    }
+   .brd{
+    flex-direction: column;
+   }
+   .box-3{
+    flex-direction: column;
+   }
+   .flex-2{
+    flex-direction: column;
+   }
+   .back-groundcolor-3{
+    flex-direction: column;
+   }
+}

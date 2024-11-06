@@ -1,0 +1,52 @@
+.two-flex a:hover {
+  color: green;
+  font-size: 20px;
+  transition: 00.1s;
+}
+.three-flex a:hover {
+  color: green;
+  font-size: 20px;
+  transition: 00.1s;
+}
+.flex a:hover {
+  padding: 20px;
+  transition: 0.1s;
+}
+.test a:hover {
+  color: black;
+  font-size: 24px;
+  transition: 0.1s;
+}
+.test-2 a:hover {
+  color: green;
+  transition: 0.1s;
+  font-size: 30px;
+}
+.hover a:hover {
+  color: white;
+  text-decoration: underline;
+}
+.imgnav-2 a:hover {
+  margin-bottom: 50px;
+  transition: 0.1s;
+}
+.imgnav-2 a:hover {
+  margin-top: 20px;
+}
+.imgnav-3 a:hover {
+  margin-bottom: 50px;
+  transition: 0.1s;
+}
+.imgnav-3 a:hover {
+  margin-top: 20px;
+}
+.igb a:hover{
+  font-size: 25px;
+  transition: 0.1s;
+}
+section a:hover{
+  text-decoration: underline;
+  color: white;
+  font-size: 20px;
+  transition: 0.1s;
+}
